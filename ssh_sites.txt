@@ -1,0 +1,3 @@
+user@host.com,/home/user/path/to/WordPress/Instance
+user@host.com,/home/user/path/to/WordPress/Instance
+user@host.com,/home/user/path/to/WordPress/Instance
