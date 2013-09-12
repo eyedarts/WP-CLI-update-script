@@ -1,0 +1,4 @@
+/home/user/path/to/WordPress/instance
+/home/user/path/to/WordPress/instance
+/home/user/path/to/WordPress/instance
+/home/user/path/to/WordPress/instance
